@@ -4,4 +4,5 @@ Türkçe: Simya oyunları için veri görselleştiricisi uygulama
 English: Data visualizer for alchemy games
 
 ##
-![Örnek Diagram] (https://github.com/SirWyrm/alchemy-game-data-visualizer/blob/main/Geni%C5%9FG%C3%B6rsel.png)
+<img src="https://raw.githubusercontent.com/SirWyrm/alchemy-game-data-visualizer/refs/heads/main/Geni%C5%9FG%C3%B6rsel.png" alt="screenshot" width="600" />
+
